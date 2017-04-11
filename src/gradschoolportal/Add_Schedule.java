@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author muham
+ * @author Sundar
  */
 public class Add_Schedule extends javax.swing.JInternalFrame {
 
