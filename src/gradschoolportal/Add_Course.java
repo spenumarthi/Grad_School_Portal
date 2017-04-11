@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author muham
+ * @author Sundar
  */
 
 public class Add_Course extends javax.swing.JInternalFrame {
